@@ -14,6 +14,8 @@ $icon-font-path: "../lib/bootstrap-sass-official/assets/fonts/bootstrap/";
 .trees { background:url('/images/trees.jpg') repeat; }
 .trees h2 { color: #ffffff; }
 
+.row1 { background: #dddddd; }
+
 // now get the bootstrap stuff.
 @import "../public/lib/font-awesome/scss/font-awesome.scss";
 @import "../public/lib/bootstrap-sass-official/assets/stylesheets/bootstrap";
