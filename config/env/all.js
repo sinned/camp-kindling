@@ -4,7 +4,7 @@ module.exports = {
 	app: {
 		title: 'Camp Kindling',
 		description: 'Tricia and Dennis get married!',
-		keywords: 'MongoDB, Express, AngularJS, Node.js'
+		keywords: 'tricia, dennis, married'
 	},
 	port: process.env.PORT || 3000,
 	templateEngine: 'swig',
