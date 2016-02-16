@@ -1,0 +1,14 @@
+@import "../public/lib/bootstrap-sass-official/assets/stylesheets/bootstrap";
+//$brand-primary: #967ADC;
+//$brand-success: #A0D468;
+//.sample { background: $brand-success; }
+//<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,800,700|Gentium+Basic:400,400italic' rel='stylesheet' type='text/css'>
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700|Gentium+Basic:400,400italic);
+
+// setting the fonts
+$font-family-sans-serif:  "Open Sans", Helvetica, Arial, sans-serif !default;
+$font-family-serif:       'Gentium Basic', Georgia, "Times New Roman", Times, serif !default;
+$font-family-base:        $font-family-serif !default;
+$headings-font-family:    $font-family-sans-serif !default;
+
+//
